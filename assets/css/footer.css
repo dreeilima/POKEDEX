@@ -1,0 +1,40 @@
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #fbd743;
+    height: 16vh;
+}
+
+.menu-footer {
+    list-style: none;
+    display: flex;
+}
+
+.menu-footer li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+
+.image-logo {
+    display: flex;
+	justify-content: center;
+}
+
+.image-up{
+    width: 300px;
+}
+
+.pokebola-icon {
+    width: 40px;
+}
